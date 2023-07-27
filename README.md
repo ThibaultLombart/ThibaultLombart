@@ -33,6 +33,12 @@ Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (Fr
 
 <br />
 
+### My Stats : 
+![Les Stats](https://github-readme-stats.vercel.app/api?username=ThibaultLombart&show_icons=true&theme=vision-friendly-dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultLombart&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 🔗 Connect with me 📱:
 [![img_site](./img/globe-light.svg)](https://thibault-lombart.com#gh-light-mode-only)
 [![img_site](./img/globe-dark.svg)](https://thibault-lombart.com#gh-dark-mode-only)
