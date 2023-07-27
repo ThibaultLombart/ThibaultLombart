@@ -7,10 +7,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultLombart&layout=compact" />
 </a>
 
-## English
+## About me
 
 Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (France).
 
-## Français
+## Connect with me
 
-Bienvenue ! Je suis Thibault Lombart, 19 ans et un étudiant français en Informatique a l'IUT de Lens (France).
+[![img_site](./img/globe-light.svg)](https://thibault-lombart.com#gh-light-mode-only)
+[![img_site](./img/globe-dark.svg)](https://thibault-lombart.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/thibault-lombart#gh-light-mode-only)
+[![img_linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thibault-lombart#gh-dark-mode-only)
