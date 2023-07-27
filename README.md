@@ -3,13 +3,14 @@
 [![img_site](./img/logo-light.png)](https://thibault-lombart.com#gh-light-mode-only)
 [![img_site](./img/logo-dark.png)](https://thibault-lombart.com#gh-dark-mode-only)
 
-### About me :
+
+
+
+## 🙋 About me 💬 :
 
 Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (France).
 
-## My developpments skills :
-
-### My Languages & Tools :
+### 🧰 My Languages & Tools 🔧 :
 <img align="left" alt="Visual Studio" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -21,7 +22,7 @@ Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (Fr
 
 <br />
 
-### My Study Path : 
+### 📖 My Study Path 💡 : 
 
 ```mermaid
   flowchart LR;
@@ -32,7 +33,7 @@ Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (Fr
 
 <br />
 
-### Connect with me :
+### 🔗 Connect with me 📱:
 [![img_site](./img/globe-light.svg)](https://thibault-lombart.com#gh-light-mode-only)
 [![img_site](./img/globe-dark.svg)](https://thibault-lombart.com#gh-dark-mode-only)
 &nbsp;&nbsp;
