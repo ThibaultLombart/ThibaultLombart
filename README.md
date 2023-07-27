@@ -11,8 +11,7 @@
 
 Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (France).
 
-## Connect with me
-
+### Connect with me
 [![img_site](./img/globe-light.svg)](https://thibault-lombart.com#gh-light-mode-only)
 [![img_site](./img/globe-dark.svg)](https://thibault-lombart.com#gh-dark-mode-only)
 &nbsp;&nbsp;
