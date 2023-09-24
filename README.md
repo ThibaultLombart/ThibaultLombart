@@ -18,6 +18,7 @@ Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (Fr
 <img align="left" alt="Intellij IDEA" width="28px" src="./img/INTELLIJ.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Lua" width="28px" src="./img/Lua-Logo.svg" style="padding-right:10px;" />
 
 
 <br />
