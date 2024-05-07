@@ -39,6 +39,7 @@ Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (Fr
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultLombart&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThibaultLombart)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔗 Connect with me 📱:
 [![img_site](./img/globe-light.svg)](https://thibault-lombart.com#gh-light-mode-only)
