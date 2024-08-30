@@ -8,7 +8,7 @@
 
 ## 🙋 About me 💬 :
 
-Welcome ! I'm Thibault Lombart, 19 yo and a French IT Student at UIT of Lens (France).
+Welcome ! I'm Thibault Lombart, 20 yo and a French IT Student at UIT of Lens (France).
 
 ### 🧰 My Languages & Tools 🔧 :
 <img align="left" alt="Visual Studio" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
