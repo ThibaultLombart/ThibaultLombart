@@ -28,7 +28,8 @@ Welcome ! I'm Thibault Lombart, 20 yo and a French IT Student at UIT of Lens (Fr
 ```mermaid
   flowchart LR;
       id1[HighSchool]-->id2[University Institute of Technology in IT / 1st Year / Top Of The Class];
-      id2-->id3[University Institute of Technology in IT / 2nd Year];
+      id2-->id3[University Institute of Technology in IT / 2nd Year / Top Of The Class];
+      id3-->id4[University Institute of Technology in IT / 3rd Year / Apprenticeship at @Worldline ];
 ```
 
 
