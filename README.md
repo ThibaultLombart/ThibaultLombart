@@ -8,7 +8,7 @@
 
 ## 🙋 About me 💬 :
 
-Welcome ! I'm Thibault Lombart, 20 yo and a French IT Student at UIT of Lens (France).
+Welcome ! I'm Thibault Lombart, 21 yo and a French IT Student at JUNIA ISEN (France).
 
 ### 🧰 My Languages & Tools 🔧 :
 <img align="left" alt="Visual Studio" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
@@ -30,6 +30,7 @@ Welcome ! I'm Thibault Lombart, 20 yo and a French IT Student at UIT of Lens (Fr
       id1[HighSchool]-->id2[University Institute of Technology in IT / 1st Year / Top Of The Class];
       id2-->id3[University Institute of Technology in IT / 2nd Year / Top Of The Class];
       id3-->id4[University Institute of Technology in IT / 3rd Year / Apprenticeship at @Worldline ];
+      id4-->id5[IT Engineering at JUNIA ISEN / 1st Year / Apprenticeship at @Worldline ];
 ```
 
 
