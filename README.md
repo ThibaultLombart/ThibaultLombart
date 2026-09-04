@@ -31,7 +31,7 @@ Welcome ! I'm Thibault Lombart, 22 yo and a French IT Student at JUNIA ISEN (Fra
       id2-->id3[University Institute of Technology in IT / 2nd Year / Top Of The Class];
       id3-->id4[University Institute of Technology in IT / 3rd Year / Apprenticeship at @Worldline ];
       id4-->id5[IT Engineering at JUNIA ISEN / 1st Year / Apprenticeship at @Worldline ];
-      id5-->id6[IT Engineering at JUNIA ISEN / 1st Year / Apprenticeship at @Worldline ];
+      id5-->id6[IT Engineering at JUNIA ISEN / 2nd Year / Apprenticeship at @Worldline ];
 ```
 
 
